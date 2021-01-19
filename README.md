@@ -2,9 +2,9 @@
 
 ## Info
 
-- [Guild charter](https://github.com/maclarel/DarkEntropy/blob/main/guildcharter.md)
-- [Loot system](https://github.com/maclarel/DarkEntropy/blob/main/loot.md)
-- [Forums](https://github.com/maclarel/DarkEntropy/discussions)
+- [Guild charter](guildcharter.md)
+- [Loot system](loot.md)
+- [Forums](https://github.com/DarkEntropy/guild/discussions)
 - [Discord]()
 - [WarcraftLogs]()
 
