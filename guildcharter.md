@@ -24,8 +24,8 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 - RESPECT ALL OF YOUR GUILDMATES AND OTHERS. 
 	- You are of course not obligated to socialize with anyone in the guild, though it is recommended and encouraged. However, you ARE obligated to be cordial and respectful to everyone in the guild. 
 	- Do not harass, demean, or abuse your guildmates. 
-	- [b]Do not under any circumstances use racial/ethnic/sexist slurs in WoW, discord, or the repo.[/b] 
-	- [b]Do not under any circumstances have anyone on discord mute or /ignore during raids.[/b] 
+	- Do not under any circumstances use racial/ethnic/sexist slurs in WoW, discord, or the repo. 
+	- Do not under any circumstances have anyone on discord mute or /ignore during raids. 
 	- Note: discussion of controversial political topics is discourage outside of designated channels/issues.
 	- Keep NSFW discussion and content to the designated channels. 
 	
@@ -41,7 +41,7 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 	- You are expected to take the time out of your day to farm the consumables that you'll need during raids. We all have jobs/families/school etc. and understand that our time is limited. If you need help with consumables there are many in the guild willing to do so. 
 	- You are expected to be prepared with knowledge of encounters. This content is old and largely solved so strategies, videos, and resources are widely available. During the raid is not the time to provide lectures on boss mechanics and strategies. 
 	- Use appropriate addons. RCLC, bigwigs/DBM, are required, but others might be necessary for you to fulfill your duties during raid.  
-	- [b]be on voice during raids[/b], have a working microphone and use it appropriately for communication during raids. 
+	- be on voice during raids, have a working microphone and use it appropriately for communication during raids. 
 
 	
 - Be present and attentive during raids
