@@ -1,59 +1,91 @@
 # Dark Entropy's Mission Statement
 
-Dark Entropy aims to provide a fun, “casual hardcore” environment for its players. Our goal is to clear all current content as rapidly as is reasonably possible upon release, with the intention of having two balanced 25 man raid groups comprising of members, alts, and raiders once the content is reliably cleared.
+Dark Entropy aims to provide a fun atmosphere and serious raiding environment for our players. 
 
-We require reasonable consumable usage (potions, flasks, food, etc…) and it is appreciated when people bring extras of these to raids. It will neither be counted for, or against you, however if it’s a personal requirement in order to hit the standards outlined by your Class Leader (see below) then it may be taken into consideration.
+Our goal is to clear all current content as rapidly as is reasonably possible upon release.
 
-Our raid times are 8PM to ~11:30PM (sometimes Midnight during progression) server time, on Thursdays and Fridays. Invites start at 7:30PM. We may occasionally schedule off-night raids for content like ZA, older content, etc... however these are not mandatory.
+The guild consists largely of old friends from early retail WoW. We want to provide a friendly environment and home for all of our players, but participation in the core raid team will be based exclusively on class/role needs and performance. 
 
-We ask that our players show up to raids knowing their class, boss strategies, and remain present and attentive during our 6-8 hours of raiding per week.
+We will run one core raid team, and support a secondary raid team for our players that are not included in the 25-man core. 
+
+We require appropriate consumable usage (potions, flasks, food, etc…) and it is appreciated when people bring extras of these to raids. 
+
+Our raid times are 8PM to ~11:30PM (sometimes Midnight during progression) server time, on Fridays and Saturdays. Invites start at 7:30PM. We may occasionally schedule off-night raids for content like ZA, older content, etc... however these are not mandatory.
+
+We ask that our players show up to raids prepared with consumables, knowing their class, boss strategies, and to remain present and attentive during our 6-8 hours of raiding per week.
 
 ## Performance Expectations
 
-### Raider (and Raider Alt) Expectations:
-- Consistently perform at, or above, the level set by your Class Leader/Officer (e.g. Rogues are expected to reliably parse above 50% outside of extenuating circumstances)
-- Show up to raids prepared, knowing strategies and having appropriate gear (moderate FR gear, Ony cloak, etc…)
+### Raider Expectations:
+- Be communicative and involved in the guild. 
+	- Keep yourself up to date with all announcements on discord and the repo 
+	- Help out guildmates whenever you can by running 5-man groups, providing crafting services, etc. 
+
+- RESPECT ALL OF YOUR GUILDMATES AND OTHERS. 
+	- You are of course not obligated to socialize with anyone in the guild, though it is recommended and encouraged. However, you ARE obligated to be cordial and respectful to everyone in the guild. 
+	- Do not harass, demean, or abuse your guildmates. 
+	- [b]Do not under any circumstances use racial/ethnic/sexist slurs in WoW, discord, or the repo.[/b] 
+	- [b]Do not under any circumstances have anyone on discord mute or /ignore during raids.[/b] 
+	- Note: discussion of controversial political topics is discourage outside of designated channels/issues.
+	- Keep NSFW discussion and content to the designated channels. 
+	
+- Act with maturity and respect when representing your guild in public. 
+	- This includes public forums, general chat in wow, tells with people outside the guild, parties you may be in outside the guild, and guild applications. 
+	- Do not flame other people, do not spam, do not ninja loot, do not grief your own faction. 
+	- In general do not present yourself as a jerk. Doing so reflects poorly on the rest of us.
+	- If you cannot curb yourself you may be asked to edit/delete your posts, apologize to people you have offended, etc. 
+	
+- Be prepared for raiding and focused on progression.
+	- You are expected to do what it takes to perform to the best of your abilities. 
+	- You must obtain BIS gear outside of raid content where needed (crafted pieces etc.) 
+	- You are expected to take the time out of your day to farm the consumables that you'll need during raids. We all have jobs/families/school etc. and understand that our time is limited. If you need help with consumables there are many in the guild willing to do so. 
+	- You are expected to be prepared with knowledge of encounters. This content is old and largely solved so strategies, videos, and resources are widely available. During the raid is not the time to provide lectures on boss mechanics and strategies. 
+	- Use appropriate addons. RCLC, bigwigs/DBM, are required, but others might be necessary for you to fulfill your duties during raid.  
+	- [b]be on voice during raids[/b], have a working microphone and use it appropriately for communication during raids. 
+
+	
 - Be present and attentive during raids
-- AFKing is fine as needed, but let your CL and/or Officers know
-- Don’t die to avoidable things
-- Make efforts to obtain BIS gear outside of raid content where needed (e.g. HOJ, Baron cloak, etc…)
-- Be online and available for raids at, or very shortly after, invite time (7:30PM server time Thurs/Fri) whenever feasible
-- You consistently confirm your attendance availability in Discord signups within a reasonable amount of lead time before the raid (ideally > 2 days before), and are reliably available for all required raid nights (currently Thursday/Friday)
-- Be present and participate when appropriate in class/role-specific commutation channels, such as in-game and discord class/role channels.
+	- Consistently confirm your attendance availability in Discord signups before the raid (ASAP after signups are posted)
+	- Be reliably available for all required raid nights (currently Friday/Saturday)
+	- Do not go AFK repeatedly or for extended periods during raids. We are all humans, we understand emergencies and IRL obligations, but please be communicative about any absences or required breaks so we can plan accordingly. 
+	- Don’t die to avoidable things (don't stand in the fire)
+	- Be online and available for raids at, or very shortly after, invite time (7:30PM server time Thurs/Fri) whenever possible. 
+	- We will have a sit rotation for most classes/roles - if it is your turn on the bench, please be available to come in if needed. If you need to use this time for other things please communicate with your scheduling officer. 
+	- Be present and participate when appropriate in class/role-specific commutation channels, such as in-game and discord class/role channels.
 
 ### Raider Promotion Expectations:
-- A minimum of 4 main raids (4 weeks) of content must be attended for evaluation purposes within a 6 week period
-- You have shown yourself to be personable and fit in with the guild (don’t be a dick)
-- As a rank below Raider, you have made reasonable effort to be available for raids even if benched
+- A trial period consisting of 4 main raids (4 weeks) of content must be attended for evaluation purposes within a 6 week period
+- You have shown yourself to be personable and fit in with the guild (don’t be a jerk)
+- As a non-raider you have made reasonable effort to be available for raids even if benched
 - When in raids, you show up prepared as outlined for Raider expectations
-- There is a need for your class/spec within one of the raid groups
-- Specifically, we will not look to demote someone specifically to make a spot available, nor do we necessarily wish to oversaturate a class/spec
+- There is a need for your class/role within the core raid group
+- Specifically, we will not look to demote someone specifically to make a spot available, nor do we wish to oversaturate a class/role
 
 ### Raider Demotion Expectations:
-- Low performance will be addressed by the Class Leader, or other Officers, with the goal of helping the Raider improve their performance
-- If continued low performance, inattentiveness, showing up unprepared, repeated AFKing, etc…, the Raider will be demoted to Member status
-- If the demoted Raider wishes to go back to Raider status, they will go through a new trial period as a probation
+- Low performance will be addressed by the Officers, with the goal of helping the Raider improve their performance
+- If continued low performance, inattentiveness, showing up unprepared, repeated AFKing, etc…, continue after counseling, then the Raider will be replaced. 
+- If the replaced Raider wishes to return to Raider status, they will go through a new trial period as a probation
 
-### Casual/Member Expectations:
-- We invite our Casual players and Members to raid with us whenever is feasible! 
-- We ask that these players be at, or near, “pre-BIS” gear sets in order to be able to meaningfully contribute to the raid. Exceptions might be made to invite players with lesser gear, however preference will be given to those who can pull their weight.
-- Similar to raiders, we simply ask that you confirm attendance well in advance of the raid, through the signup spreadsheet, so that we can balance groups.
-- If there’s space (and time), we’re happy to have casuals & alts sub in for fights like Majordomo or Onyxia in order to get things like Hunter/Priest quest items, etc...
+### Casual (non-raider) Expectations:
+- We may occasionally invite our Casual players to the core raid for class/role/attendance/evaluation needs/purposes. 
+- We ask that these players be at, or near, “pre-BIS” gear sets in order to meaningfully contribute to the raid. 
+	- Exceptions might be made to invite players with lesser gear, however preference will be given to those who can pull their weight.
+- Similar to raiders, we ask that you confirm attendance on discord well in advance of the raid for planning purposes. 
 
-### "Class Leader" Expectations:
-- Be knowledgeable in your class, know fights and how to direct players of your class.
-- Understand all specs of your class, research ahead for future tiers, understand gear implications to help players plan their reserves
-- Work with players in your class to improve their performance where needed, either 1 on 1 or in a group setting.
+### Officer Expectations:
+- Be knowledgeable in your class/role, know fights and how to direct players of your class/role.
+- Understand all specs of your class, research ahead for future tiers, understand gear implications for loot council purposes. 
+- Work with players in your class/role to improve their performance where needed, either 1 on 1 or in a group setting.
 - Lead by example, meeting and exceeding the Raider expectations
 - Assist with raid balance through identifying player availability and capability, and handling invites and group building on raid nights
-- Have a read on the pulse of your class/role, and when there are issues or concerns, identify them and propose solutions to leadership.
+- Have a read on the pulse of your class/role, and when there are issues or concerns, identify them and collaborate with other officers to work to find solutions. 
 - Provide feedback on new members and promotions, and support recruiting efforts.
 
 ### "Raid Leader" Expectations:
 - Designate a person to handle assignments of Tanks, Healers, Pullers, Main Assist, Master Looter.
 - Handle any issues that arise during the raid. Make the final call on any decisions
-- Summarize past "lessons learned" or special "things to try" before bosses in order to improve raid performance (eg: Garr add positioning, Domo cleave,etc…)
-- Observe the raid, and afterwards summarize what went well / what could be improved / your recommendations. Communicate the learnings to guild leadership, and to the other raid leader (eg raid 2).
+- Summarize past "lessons learned" or special "things to try" before bosses in order to improve raid performance (eg: positioning, tactics, etc…)
+- Observe the raid, and afterwards summarize what went well / what could be improved / your recommendations. Communicate the learnings to other officers, and to raid leader of secondary raid when relevant.
 
 ## Raider Class Specific Expectations:
 
