@@ -11,7 +11,7 @@ Dark Entropy uses a Loot Council system for loot distribution in the core raid.
 	
 - We will make an effort to provide as much transparecny as possible to the Loot Council process.
 	- Most discussions will be private among the officers. 
-	- Non-officer input will be solicted as needed. 
+	- Non-officer input will be solicited as needed. 
 	
 - The addon RCLC will be used for voting, rolling, and dstribution of loot. 
 
