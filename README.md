@@ -14,8 +14,8 @@
 
 | Name | Rank         |
 |------|--------------|
-|      | Guild Master |
-|      | Raid Leader  |
+|      | Officer      |
+|      | Officer      |
 |      | Officer      |
 |      | Officer      |
 |      | Officer      |
