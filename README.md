@@ -12,10 +12,12 @@
 
 ## Guild Leadership
 
-| Name 			| Rank         |
-|------	--------|--------------|
-| Limbay      	| Officer      |
-| Korra    	 	| Officer      |
-| Mogan     	| Officer      |
-| Pippynaught   | Officer      |
-| Niado     	| Officer      |
+| Name | Rank         |
+|------|--------------|
+|      | Guild Master |
+|      | Raid Leader  |
+|      | Officer      |
+|      | Officer      |
+|      | Officer      |
+|      | Officer      |
+|      | Officer      |
