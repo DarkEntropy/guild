@@ -14,10 +14,8 @@
 
 | Name | Rank         |
 |------|--------------|
-|      | Officer      |
-|      | Officer      |
-|      | Officer      |
-|      | Officer      |
-|      | Officer      |
-|      | Officer      |
-|      | Officer      |
+|Limbay| Officer      |
+|Korra | Officer      |
+|Mogan | Officer      |
+|Pippy | Officer      |
+|Niado | Officer      |
