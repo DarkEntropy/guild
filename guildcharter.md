@@ -60,6 +60,7 @@ We ask that our players show up to raids prepared with consumables, knowing thei
   - Conduct proper study and research of theorycrafting and best practices for your class
   - Utilize logs, vods and any other appropriate tool for postmortem analysis to identify areas of improvement for yourself
   - Accept good-faith criticism from guildmates and guild leadership and work to address any issues identified by others
+  - Take responsibility for mistakes and gaps in knowledge and work to reduce and resolve
   
 ### Raider Promotion Expectations:
 - A trial period consisting of 4 main raids (4 weeks) of content must be attended for evaluation purposes within a 6 week period.
