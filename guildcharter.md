@@ -14,9 +14,10 @@ Our raid times are 8PM to ~11:30PM (sometimes Midnight during progression) serve
 
 We ask that our players show up to raids prepared with consumables, knowing their class, boss strategies, and to remain present and attentive during our 6-8 hours of raiding per week.
 
-## Performance Expectations
+## Expectations
 
 ### Raider Expectations:
+#### Conduct
 - Be communicative and involved in the guild. 
   - Keep yourself up to date with all announcements on discord and the repo.
   - Help out guildmates whenever you can by running 5-man groups, providing crafting services, etc...
@@ -26,6 +27,8 @@ We ask that our players show up to raids prepared with consumables, knowing thei
   - Do not harass, demean, or abuse your guildmates.
   - Do not under any circumstances use racial/ethnic/sexist slurs in WoW, Discord, or the repo.
   - Do not under any circumstances have anyone on Discord muted or `/ignore`d during raids.
+  - Keep criticism constructive! 
+	- We are working to cultivate a collaborative environment to support continued improvement, so please maintain good faith when communicating areas of improvement to your guildmates. 
   - Keep NSFW discussion and content to the designated channels.
   	- Note: Discussion of political topics is discouraged outside of designated channels/issues due to its potentially sensitive nature.
 
@@ -34,7 +37,8 @@ We ask that our players show up to raids prepared with consumables, knowing thei
   - Do not flame other people, do not spam, do not ninja loot, do not grief your own faction. 
   - In general do not present yourself as a jerk. Doing so reflects poorly on the rest of us.
   - If you cannot curb yourself you may be asked to edit/delete your posts, apologize to people you have offended, etc... or potentially be removed from the guild.
-  
+
+#### Performance
 - Be prepared for raiding and focused on progression.
   - You are expected to do what it takes to perform to the best of your abilities. 
   - You must obtain BIS gear outside of raid content where needed (e.g crafted/rep pieces).
@@ -52,6 +56,11 @@ We ask that our players show up to raids prepared with consumables, knowing thei
   - We will have a sit rotation for most classes/roles - if it is your turn on the bench, please be available to come in if needed. If you need to use this time for other things please communicate with your scheduling officer. 
   - Be present and participate when appropriate in class/role-specific commutation channels, such as in-game and discord class/role channels.
 
+- Work towards continued improvement
+  - Conduct proper study and research of theorycrafting and best practices for your class
+  - Utilize logs, vods and any other appropriate tool for postmortem analysis to identify areas of improvement for yourself
+  - Accept good-faith criticism from guildmates and guild leadership and work to address any issues identified by others
+  
 ### Raider Promotion Expectations:
 - A trial period consisting of 4 main raids (4 weeks) of content must be attended for evaluation purposes within a 6 week period.
   - Promotions may be accelerated in exceptional circumstances.
