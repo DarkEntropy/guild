@@ -2,7 +2,7 @@
 
 Dark Entropy aims to provide a fun, welcomeing  atmosphere and serious raiding environment for our players. 
 
-Our goal is to clear all current content as rapidly as is reasonably possible upon release.
+Our goal is to clear all current content as rapidly as is reasonably possible upon release and to be competetive in progression with the top guilds on our server. .
 
 The guild consists largely of old friends from early retail WoW. We want to provide a friendly environment and home for all of our players, but participation in the core raid team will be based exclusively on class/role needs and performance. 
 
