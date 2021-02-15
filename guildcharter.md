@@ -84,20 +84,37 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 - Similar to raiders, we ask that you confirm attendance on discord well in advance of the raid for planning purposes. 
 
 ### Officer Expectations:
-- Be knowledgeable in your class/role, know fights and how to direct players of your class/role.
-- Understand all relevant specs of your class, research ahead for future tiers, understand gear implications for loot council purposes. 
+- Be exemplary in your conduct and professional in the performance of your duties
+	- Exhibit professionalism when coaching members 
+	- Safeguard the stability of the guild by maintaining civility at all times to officers/members
+	- Maintain the reputation of the guild by exhibiting appropriate conduct towards anyone you encounter in game 
+	- Remain calm and constructive during raids
+- Be knowledgeable in your class/role, understand encounters, and be prepared to direct the players of your class/role
+	- Understand all relevant specs of your class
+	- Research ahead for future tiers
+	- Understand gear implications for loot council purposes
 - Work with players in your class/role to improve their performance where needed, either 1-on-1 or in a group setting.
+	- Be thorough, diligent and constructive-
+	- provide notes, detailed analysis, and encouragement to improve
 - Lead by example, meeting and exceeding the Raider expectations.
-- Assist with raid balance through identifying player availability and capability, and handling invites and group building on raid nights.
-- Have a read on the pulse of your class/role, and when there are issues or concerns, identify them and collaborate with other officers to work to find solutions. 
+	- Conduct self-analysis and accept criticism!  
+- Assist raid leaders 
+	- Maintain balance through identifying player availability and capability
+	- Handle invites and group building on raid nights when needed
+	- Participate in strategy and loot distribution discussions as needed
+- Maintain awareness of the pulse of your class/role
+	- Identify any issues or concerns as soon as possible
+	- Collaborate with other officers to work toward solutions as needed
 - Provide feedback on new members and promotions, and support recruiting efforts.
 
 ### "Raid Leader" Expectations:
-- Designate a person to handle assignments of Tanks, Healers, Pullers, Main Assist, Master Looter.
-- Handle any issues that arise during the raid. Make the final call on any decisions.
+- Responsible for handling or delegating assignments of Tanks, Healers, Pullers, Main Assist, Master Looter.
+- Handle issues that arise during the raid. Make the final call on in-raid decisions if needed.
 - Summarize past "lessons learned" or special "things to try" before bosses in order to improve raid performance (eg: positioning, tactics, etc…).
-- Observe the raid, and afterwards summarize what went well / what could be improved / your recommendations. Communicate the learnings to other officers, and to raid leader of secondary raid when relevant.
-
+- Observe the raid, and afterwards summarize what went well / what could be improved / your recommendations. 
+	- Communicate the learnings to other officers, and to raid leader of secondary raid when relevant
+- Work to maintain focus during raid
+	- Fun is good! But do not let goofery get out of control
 ## Raider Class Specific Expectations:
 
 ### Rogues
