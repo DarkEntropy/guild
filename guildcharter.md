@@ -1,6 +1,6 @@
 # Dark Entropy's Mission Statement
 
-Dark Entropy aims to provide a fun atmosphere and serious raiding environment for our players. 
+Dark Entropy aims to provide a fun, welcomeing  atmosphere and serious raiding environment for our players. 
 
 Our goal is to clear all current content as rapidly as is reasonably possible upon release.
 
