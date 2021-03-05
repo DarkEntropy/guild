@@ -121,8 +121,17 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 - TBD
 
 ### Mages
-- TBD
-
+- Gear
+	- Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible. 
+	- Tailoring is required for all raiding warlocks due to the BiS sets for fire and shadow. 
+	- Scryer or Aldor exalted is required. Scryer preferred due to BiS ring.  
+- Spec
+	- For early BC the appropriate spec is
+- Raiding
+	- Read chat and acknlowledge assignments for sheeps etc.
+	- Keep AI buffed
+	- Provide max-level food and water as needed. 
+	
 ### Priests
 - TBD
 
