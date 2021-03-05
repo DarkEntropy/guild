@@ -126,7 +126,7 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 	- Tailoring is required for all raiding warlocks due to the BiS sets for fire and shadow. 
 	- Scryer or Aldor exalted is required. Scryer preferred due to BiS ring.  
 - Spec
-	- For early BC the appropriate spec is
+	- For early BC the appropriate spec is fire, with the option to switch to arcane+fire with 2pc T5. 
 - Raiding
 	- Read chat and acknlowledge assignments for sheeps etc.
 	- Keep AI buffed
