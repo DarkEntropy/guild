@@ -26,12 +26,12 @@ We ask that our players show up to raids prepared with consumables, knowing thei
   - You are of course not obligated to socialize with anyone in the guild, though it is recommended and encouraged. However, you ARE obligated to be cordial and respectful to everyone in the guild. 
   - Do not harass, demean, or abuse your guildmates.
   - Do not under any circumstances use racial/ethnic/sexist slurs in WoW, Discord, or the repo.
-  - Do not under any circumstances have anyone on Discord muted or `/ignore`d during raids.
+  - Do not under any circumstances have anyone on Discord muted or on `/ignore` during raids.
   - Keep criticism constructive! 
 	- We are working to cultivate a collaborative environment to support continued improvement, so please maintain good faith when communicating areas of improvement to your guildmates. 
   - Keep NSFW discussion and content to the designated channels.
-  	- Note: Discussion of political topics is discouraged outside of designated channels/issues due to its potentially sensitive nature.
-
+  	- Note: Discussion of political topics is discouraged outside of designated channels due to the potential for conflict.
+	
 - Act with maturity and respect when representing your guild in public. 
   - This includes public forums, general chat in WoW, tells with people outside the guild, parties you may be in outside the guild, and guild applications. 
   - Do not flame other people, do not spam, do not ninja loot, do not grief your own faction. 
@@ -39,10 +39,10 @@ We ask that our players show up to raids prepared with consumables, knowing thei
   - If you cannot curb yourself you may be asked to edit/delete your posts, apologize to people you have offended, etc... or potentially be removed from the guild.
 
 #### Performance
-- Be prepared for raiding and focused on progression.
+- Always be prepared for raiding and focused on progression.
   - You are expected to do what it takes to perform to the best of your abilities. 
   - You must obtain BIS gear outside of raid content where needed (e.g crafted/rep pieces).
-  - You are expected to take the time out of your day to farm the consumables that you'll need during raids. We all have jobs/families/school and understand that our time is limited. If you need help with consumables there are many in the guild willing to do so. 
+  - You are expected to take the time out of your day to farm the consumables that you'll need during raids. We all have jobs/families/school and understand that time is limited. If you need help with consumables there are many in the guild willing to do so. 
   - You are expected to be prepared with knowledge of encounters. This content is old and largely solved so strategies, videos, and resources are widely available. During the raid is not the time to provide lectures on boss mechanics and strategies beyond a refresher/course correction. 
   - Use appropriate addons. RCLC and Bigwigs/DBM are required, but others might be necessary for you to fulfill your duties during raid.  
   - Be on voice during raids, have a working microphone and use it appropriately for communication during raids. 
@@ -65,12 +65,12 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 ### Raider Promotion Expectations:
 - A trial period consisting of 4 main raids (4 weeks) of content must be attended for evaluation purposes within a 6 week period.
   - Promotions may be accelerated in exceptional circumstances.
-  - As a recruit, if you do not make the cut after the 4-6 week period you may be offered the option to remain in the guild as a Casual-ranked player, however you will not be a spot in the core raid group.
+  - As a recruit, if you do not make the cut after the 4-6 week period you may be offered the option to remain in the guild as a Casual-ranked player, however you will not be assigned a spot in the core raid group.
 - You have shown yourself to be personable and fit in with the guild (don’t be a jerk).
 - As a non-raider you have made reasonable effort to be available for raids even if benched.
 - When in raids, you show up prepared as outlined for Raider expectations.
 - There is a need for your class/role within the core raid group.
-  - Specifically, we will not look to demote someone specifically to make a spot available, nor do we wish to oversaturate a class/role.
+  - Specifically, we will not look to demote someone to make a spot available, nor do we wish to oversaturate a class/role.
 
 ### Raider Demotion Expectations:
 - Low performance will be addressed by the Officers, with the goal of helping the Raider improve their performance.
@@ -136,7 +136,23 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 - TBD
 
 ### Warlocks
-- TBD
+- Gear
+	- Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible. 
+	- Tailoring is required for all raiding warlocks due to the BiS sets for fire and shadow. 
+	- Scryer or Aldor exalted is required. Scryer preferred due to BiS ring.  
+- Spec
+	- Allowed specs in early BC are: shadow or fire destro, full demo, and affliction. 
+		- Destro will be the baseline spec throughout BC. Please ensure you are geared appropriately for either fire or shadow. 
+		- There will be one affliction slot in raids so please coordinate this with the appropriate officer. 
+		- If full demo please ensure you can capably control your pet to maximize damage output and pet survivability. If DPS output as demo is not adequate you will be asked to switch to destro. 
+- Raiding
+	- Come to raid with appropriate number of shards
+	- Read warlock chat and acknlowledge assignments 
+	- Coordinate soulstones with other warlocks
+		- Use designated addon
+	- Keep assigned curse uptime near 100% 
+	- Provide healthstones to raid as needed
+	
 
 ### Hunters
 - TBD
