@@ -1,4 +1,4 @@
-# Dark Entropy - US-????
+# Dark Entropy - US-Herod
 
 ## Info
 
