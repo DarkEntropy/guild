@@ -6,7 +6,7 @@
 - [Loot system](loot.md)
 - [RAID-B](raid-b.md)
 - [Forums](https://github.com/DarkEntropy/guild/discussions)
-- [Discord]()
+- [Discord](https://discord.gg/wQYrshkJkQ)
 - [WarcraftLogs]()
 
 
