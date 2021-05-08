@@ -1,4 +1,4 @@
-# Dark Entropy - US-????
+# Dark Entropy - US-Herod
 
 ## Info
 
@@ -6,7 +6,7 @@
 - [Loot system](loot.md)
 - [RAID-B](raid-b.md)
 - [Forums](https://github.com/DarkEntropy/guild/discussions)
-- [Discord]()
+- [Discord](https://discord.gg/wQYrshkJkQ)
 - [WarcraftLogs]()
 
 
@@ -19,4 +19,7 @@
 |Mogan | Officer      |
 |Pippy | Officer      |
 |Niado | Officer      |
+<<<<<<< HEAD
 |Tanarik | Officer      |
+=======
+>>>>>>> caa16588710000a1dc2480abf047a33abe0cd0e3
