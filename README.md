@@ -19,7 +19,4 @@
 |Mogan | Officer      |
 |Pippy | Officer      |
 |Niado | Officer      |
-<<<<<<< HEAD
 |Tanarik | Officer      |
-=======
->>>>>>> caa16588710000a1dc2480abf047a33abe0cd0e3
