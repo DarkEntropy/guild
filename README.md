@@ -19,3 +19,4 @@
 |Mogan | Officer      |
 |Pippy | Officer      |
 |Niado | Officer      |
+|Tanarik | Officer      |
