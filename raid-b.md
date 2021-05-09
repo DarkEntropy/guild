@@ -17,6 +17,6 @@ The framework for RAID-B will be as follows:
 Additional notes
 - RAID-B will in no circumstances be allowed to negatively impact the success or performance of RAID-CORE
 - RAID-B is inteded to provide a casual, but focused environment for our less serious members.
-- No loot prio for RAID-CORE members attending a RAID-B raid (except in rare circumstances as noted below). 
+- No loot prio for RAID-CORE members attending a RAID-B raid. 
 
 
