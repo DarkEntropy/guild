@@ -10,7 +10,7 @@ We will run one core raid team, and support a secondary raid team for our player
 
 We require appropriate consumable usage (potions, flasks, food, etc…) and it is appreciated when people bring extras of these to raids. 
 
-Our raid times are 8PM to ~11:30PM (sometimes Midnight during progression) server time, on Fridays and Saturdays. Invites start at 7:30PM. We may occasionally schedule off-night raids for content like ZA, older content, etc... however these are not mandatory.
+Our raid times are 8PM to ~11:30PM (sometimes Midnight during progression) server time, days TBD currently. Invites start at 7:30PM. We may occasionally schedule off-night raids for content like ZA, older content, etc... however these are not mandatory.
 
 We ask that our players show up to raids prepared with consumables, knowing their class, boss strategies, and to remain present and attentive during our 6-8 hours of raiding per week.
 
@@ -123,8 +123,8 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 ### Mages
 - Gear
 	- Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible. 
-	- Tailoring is required for all raiding warlocks due to the BiS sets for fire and shadow. 
-	- Scryer or Aldor exalted is required. Scryer preferred due to BiS ring.  
+	- Tailoring is required for all raiding mages due to the BiS sets for fire. 
+	- Scryer exalted is preferred due to BiS ring, enchant and Trinket.  
 - Spec
 	- For early BC the appropriate spec is fire, with the option to switch to arcane+fire with 2pc T5. 
 - Raiding
@@ -132,13 +132,36 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 	- Keep AI buffed
 	- Provide max-level food and water as needed. 
 	
-### Priests
+### ShadowPriests
+- Gear
+ 	- Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible. 
+	- Tailoring is recommended for all raiding shadowpriests due to the BiS sets for shadow. Frozen Shadoweave and Spellstrike sets. 
+	- Scryer exalted is required.  Cennarion Expedition exalted is recommended as well.  Both of these reputations have bis ring offerings.
+
+- Raiding
+	- Vampiric Touch uptime is paramount
+	- Awareness of threat
+	- A Dead shadow priest offers no benefit to the raid, so avoid death by making the correct decisions on Shadow Word: Death. 
+
+### Healing Druids / Priests / Shaman / Paladins
+- Gear
+ 	- Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible. 
+	- Tailoring is recommended for all raiding healers. It is not required due to the cost of attaining this gear comparative substitutions are available.
+	- Leatherworking and Blacksmithing gives Druids / Shaman / Paladins access to a wider array of healing gear options.
+	- Lower City Revered is recommended for the Prayerbook.  Thrallmar revered is recommended as well for the Ancestral Band
+
+- Spec
+	- Spec's will be determined prior to raid nights depending on the needs of the fight.  This will demonstrate the value of healer communication and teamwork.
+
+- Raiding
+	- Prior study of all raid encounters is required.  
+	- Communication within the healer channel is required
+	- Understand your responsibility and assignment before each fight by using the healer repo
+	
+### Boomkin Druid
 - TBD
 
-### Healing Druids / Priests / Shaman
-- TBD
-	
-### Druids
+### Feral Druid
 - TBD
 
 ### Warriors
