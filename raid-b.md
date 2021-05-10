@@ -1,8 +1,8 @@
 # Second Raid Team
 
 Dark Entropy supports a second raid team (RAID-B) in addition to our core raid team (RAID-CORE). The second team provides the following benefits:
-- A mechanism for our casual players, friends and family, and alts to raid. 
-- A feeder for RAID-CORE: when we inevitably lose players from RAID-CORE we can bring promising candidates up from RAID-B.
+- A raiding home for those not included in RAID-CORE
+- A larger community to support gameplay outside of raiding  (bg's, arena, old content, 10-mans)
 
 The framework for RAID-B will be as follows:
 - RAID-B will be largely autonomous 
@@ -15,8 +15,8 @@ The framework for RAID-B will be as follows:
 	- RL can delegate tasks as needed but will be responsible for the results. 
 	
 Additional notes
-- RAID-B will in no circumstances be allowed to negatively impact the success or performance of RAID-CORE
-- RAID-B is inteded to provide a casual, but focused environment for those not in RAID-CORE
-- No loot prio for RAID-CORE members attending a RAID-B raid. 
+- RAID-B will in no circumstances be allowed to negatively impact the success or performance of RAID-CORE and Vice Versa
+- RAID-B is inteded to provide a focused environment for those not in RAID-CORE
+
 
 
