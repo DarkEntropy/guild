@@ -3,7 +3,7 @@
 ## Info
 
 - [Guild charter](https://darkentropy.github.io/posts/guildcharter/)
-- [Loot system](https://darkentropy.github.io/posts/loot/
+- [Loot system](https://darkentropy.github.io/posts/loot/)
 - [Raid setup](https://darkentropy.github.io/posts/raid/)
 - [Forums](https://github.com/DarkEntropy/guild/discussions)
 - [Discord](https://discord.gg/wQYrshkJkQ)
