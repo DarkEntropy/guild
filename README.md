@@ -2,12 +2,12 @@
 
 ## Info
 
-- [Guild charter](guildcharter.md)
-- [Loot system](loot.md)
-- [RAID-B](raid-b.md)
+- [Guild charter](https://darkentropy.github.io/posts/guildcharter/)
+- [Loot system](https://darkentropy.github.io/posts/loot/
+- [Raid setup](https://darkentropy.github.io/posts/raid/)
 - [Forums](https://github.com/DarkEntropy/guild/discussions)
 - [Discord](https://discord.gg/wQYrshkJkQ)
-- [WarcraftLogs]()
+- [WarcraftLogs](https://classic.warcraftlogs.com/guild/rankings/600669/latest)
 
 
 ## Guild Leadership
@@ -19,4 +19,4 @@
 |Mogan | Officer      |
 |Pippy | Officer      |
 |Niado | Officer      |
-|Tanarik | Officer      |
+|Tanarik | Officer    |
